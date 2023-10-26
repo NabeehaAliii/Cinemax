@@ -1,5 +1,6 @@
 # Cinemax
  Cinema Website- HTML and CSS
+ 
  Website Intro:
  This is a Cinema Website in which you can see the timing and the name of the movies the Cinema will show.
 
